@@ -3,12 +3,26 @@ output:
   pdf_document: default
   html_document: default
 ---
+I don't know why this :point_up_2: :point_up_2: :point_up_2: is showing up.
+Probably because I get an error when I preview in R Studio.
+:white_large_square: To Do: Get rid of error.  Might need to get LaTeX.
+
+
+
 # learning-r
 Links to **learning R and Machine Learning**. :soccer:
 
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/KevinWi15767971) [![HitCount](http://hits.dwyl.com/kwill1992/learning-r.svg)](http://hits.dwyl.com/kwill1992/learning-r)
+
+
+
+
+
+
+
+
 
 Figuring out how to implement your ML project? Learn how other organizations did it:
 
