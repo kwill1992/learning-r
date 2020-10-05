@@ -12,6 +12,39 @@ Probably because I get an error when I preview in R Studio.
 # learning-r
 Links to **learning R and Machine Learning**. :soccer: :white_large_square: To Do: Get a different emoji.  
 
+## Git, Github, Markdown, R Markdown
+1. How did I get what you are reading right now, right here where you are reading it? I am creating content using R with R Studio and pushing it to my Github account. I am using this book and set of instructions:  👉[`happygitwithr`](https://happygitwithr.com) A big thank you to Jenny Bryan for her work.  Her Github page is ['HERE'](https://github.com/jennybc) and her website is ['RIGHT HERE'](https://jennybryan.org)  
+
+Important Github accounts/pages  
+https://github.com/rstudio  
+https://github.com/RamiKrispin  
+https://github.com/eugeneyan  
+https://github.com/jennybc  
+
+
+Important R sites:  
+https://ropensci.org  
+https://www.tidyverse.org  
+
+
+Learning R:  
+https://stat545.com  
+
+Free Books on R:  
+Statistical Inference via Data Science A ModernDive in R and the Tidyverse https://moderndive.com/index.html  
+R for Data Science https://r4ds.had.co.nz  
+Solutions for R for Data Science https://jrnold.github.io/r4ds-exercise-solutions/  
+What they forgot to teach you about R https://rstats.wtf  
+Advanced R https://adv-r.hadley.nz  
+
+Free Course:  
+Data Science in a Box https://datasciencebox.org  
+
+Learning Resources:  
+https://github.com/rstudio-education  
+
+
+
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/KevinWi15767971) [![HitCount](http://hits.dwyl.com/kwill1992/learning-r.svg)](http://hits.dwyl.com/kwill1992/learning-r)
