@@ -8,7 +8,7 @@ Links to **learning R and Machine Learning**. :soccer:
 
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/eugeneyan/status/1288236455228137473) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/KevinWi15767971) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
 
 Figuring out how to implement your ML project? Learn how other organizations did it:
 
