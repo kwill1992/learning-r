@@ -10,7 +10,7 @@ Probably because I get an error when I preview in R Studio.
 
 
 # learning-r
-Links to **learning R and Machine Learning**. :soccer:
+Links to **learning R and Machine Learning**. :soccer: :white_large_square: To Do: Get a different emoji.  
 
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
