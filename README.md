@@ -3,8 +3,8 @@ output:
   pdf_document: default
   html_document: default
 ---
-I don't know why this :point_up_2: :point_up_2: :point_up_2: is showing up.
-Probably because I get an error when I preview in R Studio.
+I don't know why this :point_up_2: :point_up_2: :point_up_2: is showing up.  
+Probably because I get an error when I preview in R Studio.  
 :white_large_square: To Do: Get rid of error.  Might need to get LaTeX.
 
 
