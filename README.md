@@ -14,6 +14,18 @@ Links to **learning R and Machine Learning**. :soccer: :white_large_square: To D
 
 ## Git, Github, Markdown, R Markdown
 1. How did I get what you are reading right now, right here where you are reading it? I am creating content using R with R Studio and pushing it to my Github account. I am using this book and set of instructions:  👉[`happygitwithr`](https://happygitwithr.com) A big thank you to Jenny Bryan for her work.  Her Github page is ['HERE'](https://github.com/jennybc) and her website is ['RIGHT HERE'](https://jennybryan.org)  
+2. Some basic Markdown info: https://www.markdownguide.org/basic-syntax/  
+3. https://guides.github.com/features/mastering-markdown/  
+4. https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji  
+5. https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#dishware
+6. https://guides.github.com/activities/hello-world/  
+7. https://github.com/dwyl/hits  
+8. https://github.com/dwyl/repo-badges  
+9. https://hits.dwyl.com  
+10. https://bookdown.org/yihui/rmarkdown/  
+
+
+
 
 Important Github accounts/pages  
 https://github.com/rstudio  
@@ -36,6 +48,8 @@ R for Data Science https://r4ds.had.co.nz
 Solutions for R for Data Science https://jrnold.github.io/r4ds-exercise-solutions/  
 What they forgot to teach you about R https://rstats.wtf  
 Advanced R https://adv-r.hadley.nz  
+R Markdown Guide https://bookdown.org/yihui/rmarkdown/  
+
 
 Free Course:  
 Data Science in a Box https://datasciencebox.org  
