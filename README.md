@@ -49,6 +49,15 @@ Solutions for R for Data Science https://jrnold.github.io/r4ds-exercise-solution
 What they forgot to teach you about R https://rstats.wtf  
 Advanced R https://adv-r.hadley.nz  
 R Markdown Guide https://bookdown.org/yihui/rmarkdown/  
+From R Studio:
+bookdown: Authoring Books and Technical Documents with R Markdown https://bookdown.org/yihui/bookdown/
+Efficient R programming https://bookdown.org/csgillespie/efficientR/
+R Studio Articles https://rmarkdown.rstudio.com/articles.html
+
+Plenty of free books here:  https://bookdown.org
+
+
+Get Shiny Going https://shiny.rstudio.com/articles/#first-app
 
 
 Free Course:  
