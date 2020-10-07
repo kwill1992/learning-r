@@ -56,6 +56,9 @@ R Studio Articles https://rmarkdown.rstudio.com/articles.html
 
 Plenty of free books here:  https://bookdown.org
 
+Publishing
+https://www.slideshare.net/fpgabe/r-markdown-rpubs-github-publishing-and-shiny-by-example
+
 
 Get Shiny Going https://shiny.rstudio.com/articles/#first-app
 
