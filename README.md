@@ -23,7 +23,9 @@ Links to **learning R and Machine Learning**. :soccer: :white_large_square: To D
 8. https://github.com/dwyl/repo-badges  
 9. https://hits.dwyl.com  
 10. https://bookdown.org/yihui/rmarkdown/  
-
+11. https://education.github.com/git-cheat-sheet-education.pdf
+12. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
+13. http://rogerdudler.github.io/git-guide/
 
 
 
@@ -58,6 +60,7 @@ Plenty of free books here:  https://bookdown.org
 
 Publishing
 https://www.slideshare.net/fpgabe/r-markdown-rpubs-github-publishing-and-shiny-by-example
+https://rpubs.com/hemanthb/intro_git_rmd
 
 
 Get Shiny Going https://shiny.rstudio.com/articles/#first-app
