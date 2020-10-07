@@ -59,6 +59,11 @@ https://github.com/rstudio-education
 
 
 
+Python Books:
+Python Data Science Handbook https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf
+
+
+
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![Summaries](https://img.shields.io/badge/summaries-in%20tweets-%2300acee.svg?style=flat)](https://twitter.com/KevinWi15767971) [![HitCount](http://hits.dwyl.com/kwill1992/learning-r.svg)](http://hits.dwyl.com/kwill1992/learning-r)
