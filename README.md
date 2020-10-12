@@ -7,7 +7,7 @@ I don't know why this :point_up_2: :point_up_2: :point_up_2: is showing up.
 Probably because I get an error when I preview in R Studio.  
 :white_large_square: To Do: Get rid of error.  Might need to get LaTeX.
 
-
+1. [Publish Webpages](#publish-webpages)
 
 # learning-r
 Links to **learning R and Machine Learning**. :soccer: :white_large_square: To Do: Get a different emoji.  
@@ -92,7 +92,7 @@ https://paldhous.github.io/ucb/2018/dataviz/week14.html
 https://www.r-graph-gallery.com/271-ggplot2-animated-gif-chart-with-gganimate.html  
 https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/  
 
-
+## Publish Webpages
 Make a webpage on GitHub
 https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github  
 https://pages.github.com  
