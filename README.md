@@ -55,6 +55,9 @@ From R Studio:
 bookdown: Authoring Books and Technical Documents with R Markdown https://bookdown.org/yihui/bookdown/
 Efficient R programming https://bookdown.org/csgillespie/efficientR/
 R Studio Articles https://rmarkdown.rstudio.com/articles.html
+Creating Websites with R Markdown https://bookdown.org/yihui/blogdown/  
+
+
 
 Plenty of free books here:  https://bookdown.org
 
@@ -93,6 +96,15 @@ https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-a
 Make a webpage on GitHub
 https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github  
 https://pages.github.com  
+https://www.youtube.com/watch?v=nc7XhQrasCM  
+https://ialsa.github.io/tutorials/gh-pages-setup.html  
+https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages  
+https://bookdown.org/yihui/blogdown/  
+https://resources.github.com/whitepapers/github-and-rstudio/  
+
+
+Publish online:
+https://rpubs.com/cathydatascience/518481  
 
 
 
