@@ -74,6 +74,29 @@ https://github.com/rstudio-education
 
 
 
+Using Packages:
+gganimiate
+Documentation:  https://www.rdocumentation.org/packages/gganimate/versions/0.1.1
+Videos:  
+https://www.youtube.com/watch?v=ccuZYgcwusU  
+https://www.youtube.com/watch?v=b56-TCcg4sI  
+https://www.youtube.com/watch?v=adelgqOlZwE  
+
+https://towardsdatascience.com/how-to-create-plots-with-beautiful-animation-using-gganimate-912f4279b073  
+https://paldhous.github.io/ucb/2018/dataviz/week14.html  
+https://paldhous.github.io/ucb/2018/dataviz/index.html  
+https://paldhous.github.io/ucb/2018/dataviz/week14.html  
+https://www.r-graph-gallery.com/271-ggplot2-animated-gif-chart-with-gganimate.html  
+https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/  
+
+
+Make a webpage on GitHub
+https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github  
+https://pages.github.com  
+
+
+
+
 Python Books:
 Python Data Science Handbook https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf
 
