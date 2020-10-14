@@ -101,6 +101,8 @@ https://ialsa.github.io/tutorials/gh-pages-setup.html
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages  
 https://bookdown.org/yihui/blogdown/  
 https://resources.github.com/whitepapers/github-and-rstudio/  
+https://github.com/marschmi/RMarkdown_May11_2016/blob/master/RMarkdown_Lesson.Rmd  
+
 
 
 Publish online:
