@@ -74,6 +74,7 @@ Data Science in a Box https://datasciencebox.org
 
 Learning Resources:  
 https://github.com/rstudio-education  
+Search CRAN and Github https://www.rdocumentation.org  
 
 
 
@@ -107,6 +108,17 @@ https://github.com/marschmi/RMarkdown_May11_2016/blob/master/RMarkdown_Lesson.Rm
 
 Publish online:
 https://rpubs.com/cathydatascience/518481  
+
+## Optimization
+Rglpk package write-up https://cran.r-project.org/web/packages/Rglpk/Rglpk.pdf  
+The GLPK (GNU Linear Programming Kit) package is intended for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems.  
+Optimization in R Course notes;  https://www.is.uni-freiburg.de/resources/computational-economics/5_OptimizationR.pdf  
+http://www.stat.umn.edu/geyer/3701/notes/optimize.html  
+https://en.wikibooks.org/wiki/R_Programming/Optimization  
+Package "OPtimization" https://cran.r-project.org/web/packages/optimization/optimization.pdf  
+CRAN list of optimization packages https://cran.r-project.org/web/views/Optimization.html  
+lpsolve: https://cran.r-project.org/web/packages/lpSolve/lpSolve.pdf  
+notes on solving in R https://upcommons.upc.edu/bitstream/handle/2117/78335/Modeling+and+Solving+Linear+Programming+with+R.pdf;jsessionid=963355029CF90C038610287B461431E8?sequence=1  
 
 
 
